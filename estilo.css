@@ -120,4 +120,18 @@ address{
     margin: 5px 0;
 }
 
+address a{
+    color: blue;
+    text-decoration: none;
+}
+
+i{
+    color: rgb(0, 0, 0);
+    margin-right: 8px;
+}
+
+article{
+    margin-bottom: 15px;
+}
+
 
